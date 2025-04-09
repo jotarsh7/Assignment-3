@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257748415014",
+    "project_id": "favortiemovieapp",
+    "storage_bucket": "favortiemovieapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257748415014:android:e9d4a4f7c15e336994ece7",
+        "android_client_info": {
+          "package_name": "com.example.favoritemovieapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt27kBw21gqde8UBt4mmHbTP-ABfOhYns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
